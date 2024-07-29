@@ -21,9 +21,10 @@ This repository contains a set of materials useful for maintaining a coherent FO
 └── licenses
     ├── AGPL-3.0-or-later
     ├── EUPL-1.2
-    └── MPL-2.0
+    ├── MPL-2.0
+    └── OFL-1.1
 
-2 directories, 4 files
+2 directories, 5 files
 ```
 
 
